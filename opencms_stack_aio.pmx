@@ -1,0 +1,16 @@
+---
+name: OpenCms Stack AIO
+description: later
+keywords: 'opencms cloudified cluster '
+type: Java
+documentation: later
+images:
+- name: cloudssky_opencms-stack-aio_latest
+  source: cloudssky/opencms-stack-aio:latest
+  type: Default
+  expose:
+  - '80'
+  ports:
+  - host_port: ''
+    container_port: '80'
+    proto: TCP
