@@ -3,7 +3,7 @@ name: OpenCms Stack AIO
 description: later
 keywords: 'opencms cloudified cluster '
 type: Java
-documentation: later
+documentation: please refer to http://ow.ly/uFzGk
 images:
 - name: cloudssky_opencms-stack-aio_latest
   source: cloudssky/opencms-stack-aio:latest
